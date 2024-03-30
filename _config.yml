@@ -1,18 +1,18 @@
 url: "hanchaozhang.xyz "
 # baseurl: /Hanchao-Zhang.github.io
 # Basic Information 
-title: Hanchao Zhang
+title: Fuwei Li
 # subtitle:
-position: Ph.D. Candidate
+position: Graduate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+# subposition_link: https://nyu-medicine-cssa.github.io
+affiliation: Guangdong Ocean University
+subaffiliation: School of Electronics and Information Engineering
+affiliation_link: https://www.gdou.edu.cn/
+# subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
+email: 1669744570@qq.com
+address: Bao'an, Shenzhen
+# address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
 
 
@@ -24,9 +24,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
+# google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
 # cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
+github_link: https://github.com/ElectricOwl-E10
 linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 twitter: https://twitter.com/tedddddy_zhang
 
