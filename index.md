@@ -4,26 +4,24 @@ layout: homepage
 
 ## About Me
 
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. candidate in Statistics at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
+I obtained my bachelor's degree in Electrical Engineering and its Automation from Guangdong Ocean University in 2023. During my college years, I was a founding member of the Power Conversion Innovation Team in the College of Electrical and Information Engineering, mentored by Prof. Luo Peng, who received his Ph.D. in 2023 from National Cheng Kung University in Taiwan. At the end of 2021, I began researching energy storage for renewable energy and power converters in power electronics. Despite a busy schedule during my junior year, I managed to develop three projects of power converters and produce over ten PCB boards. 
+In terms of academia: Three SCI, one EI Conference, and one utility model patent were accepted and published. 
+In terms of competition: As team leader, I led my team to win a first prize in a national-level competition. 
+In terms of academic performance: Ranking 1/ 147 in my major during my junior year.
+Despite ranking 1/ 147 in my major during my junior year, due to an error, I failed one subject. Although I subsequently passed the makeup exam, I consequently lost the eligibility for graduate school recommendation.
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
-<!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
+After graduation, I worked as a hardware engineer at Shenzhen SHINEYOUNG New Energy Company. I was appreciated by my leaders for completing my tasks on time and with quality during my work period, so I was assigned to an important project team and received an A in my probationary evaluation.
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
+Due to our passion for power electronics and the future plans of both my fiancée, Jie He, and I, we are now applying full-time to the 2025FALL PhD program in the United States.
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm also an amateur DJ available for parties.
+
+
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifold learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **Precision Medicine:** subpopulation identification, and personalized recommendation and treatment effect estimation
+- **DC-DC Converter:** topology, simulation and control for high step-up/dwon/buck-boost converter
+- **DC-AC Inverter:** topology, simulation for multilevel inverter
 
 
 ## Awards
