@@ -8,18 +8,18 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal / Conference Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.tandfonline.com/journals/lsta20" target="_blank"> Communications in Statistics - Theory and Methods</a></li>
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
+  <li><a href="https://ieeeaccess.ieee.org/" target="_blank"> IEEE ACCESS</a></li>
+  <li><a href="https://iten.ieee-ies.org/past-events/2023/2023-oncon-the-2nd-ieee-industrial-electronics-society-annual-online-conference/" target="_blank"> ONCON 2023</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li>
+  <li><strong>[2022-prsent]</strong> Member of the <a href="https://www.ces.org.cn/" target="_blank"> China Electrotechnical Society</a></li>
+  <li><strong>[2019-2022]</strong> Monitor of the Class 1191 of <a href="https://jwc.gdou.edu.cn/info/1214/6508.htm" target="_blank"> Electrical Engineering and its Automation</a> at College of Electronic and Information Engineering, Guangdong Ocean University</li>
+  <li><strong>[2019-2021]</strong> Member of the <a href="https://sl.gdou.edu.cn/info/1004/1062.htm" target="_blank"> Electronics Club</a>, Guangdong Ocean University</li>
+
 </ul>
