@@ -33,7 +33,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/TIE2024fw.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Journal</abbr>
   </div>
 
@@ -53,7 +53,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/JPE2023fw.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Journal</abbr>
   </div>
 
@@ -74,7 +74,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/IET2022hj.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Journal</abbr>
   </div>
 
@@ -95,7 +95,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ITOEC2022hj.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Conference</abbr>
   </div>
 
