@@ -42,8 +42,8 @@
     <div class="author"><strong>Fuwei Li</strong> </div>
     <div class="periodical"><em>Shenzhen SHINEYOUNG New Energy Technology Co., Ltd., Jul. 2023 – Mar. 2024.</em></div>
     <div class="links">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10149203" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/TIE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://www.shineyoung.com/productinfo/2221242.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/125kWPCSfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -125,8 +125,7 @@
     <div class="author"><strong>Fuwei Li</strong>, Guanghao Chen, Jie He, Peng Luo, Donghong Yang</strong></div>
     <div class="periodical"><em> the 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
-    <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/IET_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/Poster_Buckboostfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
