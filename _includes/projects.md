@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -43,7 +43,7 @@
     <div class="periodical"><em>IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, May 2024.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10149203" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/SYNCHR~1.PDF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/TIE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -63,36 +63,56 @@
     <div class="periodical"><em>Journal of Power Electronics <strong>(JPE)</strong>, Apr. 2023.</em></div>
     <div class="links">
     <a href="https://link.springer.com/article/10.1007/s43236-022-00564-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/SYNCHR~1.PDF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/JPE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
 </li>
-
-
 
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Journal</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443">A high step-up DC-DC converter based on three-winding coupled inductor and voltage multiplier for renewable energy applications</a></div>
+    <div class="author">Peng Luo, Jie He, Huansheng Ji, <strong>Fuwei Li</strong>, Haoyu Jiang, Limei Shi</strong></div>
+    <div class="periodical"><em>IET Power Electronics <strong>(IET PE)</strong>, Nov. 2022.</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+    <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/IET_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Conference</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/9734370">A Single Switch Quadratic Step-up DC-DC 
+Converter Based on Three-winding Coupled Inductor and Switch-capacitor</a></div>
+    <div class="author">Jie He, <strong>Fuwei Li</strong>, Donghong Yang, Peng Luo, Jinchao Pan, Huansheng Ji, Daojiri Huang</strong></div>
+    <div class="periodical"><em> 2022 IEEE 6th Information Technology and Mechatronics Engineering Conference <strong>(ITOEC2022)</strong>, Mar. 2022.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/document/9734370" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/ITOEC2022_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
   
 <br>
 
