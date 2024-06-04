@@ -60,7 +60,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10149203">Synchronous Dual-Switch Ultrahigh Step-Up DC–DC Converter Based on Coupled Inductor and Voltage Multiplier for Photovoltaic Systems</a></div>
-    <div class="author"><strong>Fuwei Li</strong>, Jie He, Daojiri Huang, Peng Luo, Haoyu Jiang</strong></div>
+    <div class="author"><strong>Fuwei Li</strong>, Jie He, Daojiri Huang, Peng Luo, Haoyu Jiang</div>
     <div class="periodical"><em>IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, May 2024.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10149203" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -80,7 +80,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/article/10.1007/s43236-022-00564-1">Quadratic-type high step-up DC–DC converter with continuous input current integrating coupled inductor and voltage multiplier for renewable energy applications</a></div>
-    <div class="author"><strong>Fuwei Li</strong>, Jie He, Peng Luo, Haoyu Jiang, Mingxin Liu</strong></div>
+    <div class="author"><strong>Fuwei Li</strong>, Jie He, Peng Luo, Haoyu Jiang, Mingxin Liu</div>
     <div class="periodical"><em>Journal of Power Electronics <strong>(JPE)</strong>, Apr. 2023.</em></div>
     <div class="links">
     <a href="https://link.springer.com/article/10.1007/s43236-022-00564-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -101,7 +101,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443">A high step-up DC-DC converter based on three-winding coupled inductor and voltage multiplier for renewable energy applications</a></div>
-    <div class="author">Peng Luo, Jie He, Huansheng Ji, <strong>Fuwei Li</strong>, Haoyu Jiang, Limei Shi</strong></div>
+    <div class="author">Peng Luo, Jie He, Huansheng Ji, <strong>Fuwei Li</strong>, Haoyu Jiang, Limei Shi</div>
     <div class="periodical"><em>IET Power Electronics <strong>(IET PE)</strong>, Nov. 2022.</em></div>
     <div class="links">
     <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -122,7 +122,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443">BUCK-BOOST converter applied in friction-based nanogenerator energy storage device</a></div>
-    <div class="author"><strong>Fuwei Li</strong>, Guanghao Chen, Jie He, Peng Luo, Donghong Yang</strong></div>
+    <div class="author"><strong>Fuwei Li</strong>, Guanghao Chen, Jie He, Peng Luo, Donghong Yang</div>
     <div class="periodical"><em> the 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
     <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/Poster_Buckboostfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
@@ -143,7 +143,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/9734370">A Single Switch Quadratic Step-up DC-DC 
 Converter Based on Three-winding Coupled Inductor and Switch-capacitor</a></div>
-    <div class="author">Jie He, <strong>Fuwei Li</strong>, Donghong Yang, Peng Luo, Jinchao Pan, Huansheng Ji, Daojiri Huang</strong></div>
+    <div class="author">Jie He, <strong>Fuwei Li</strong>, Donghong Yang, Peng Luo, Jinchao Pan, Huansheng Ji, Daojiri Huang</div>
     <div class="periodical"><em> 2022 IEEE 6th Information Technology and Mechatronics Engineering Conference <strong>(ITOEC2022)</strong>, Mar. 2022.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/9734370" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
