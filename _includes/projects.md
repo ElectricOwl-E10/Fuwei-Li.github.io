@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -27,6 +27,27 @@
   </div>
 </div>
 </li> -->
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/125kWPCSfw.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Project</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.shineyoung.com/productinfo/2221242.html">A 125 kW PCS (using the NPC1 three level topology) for commercial and industrial energy storage</a></div>
+    <div class="author"><strong>Fuwei Li</strong> </div>
+    <div class="periodical"><em>Shenzhen SHINEYOUNG New Energy Technology Co., Ltd., Jul. 2023 – Mar. 2024.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10149203" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/TIE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
 <li>
@@ -82,6 +103,27 @@
     <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443">A high step-up DC-DC converter based on three-winding coupled inductor and voltage multiplier for renewable energy applications</a></div>
     <div class="author">Peng Luo, Jie He, Huansheng Ji, <strong>Fuwei Li</strong>, Haoyu Jiang, Limei Shi</strong></div>
     <div class="periodical"><em>IET Power Electronics <strong>(IET PE)</strong>, Nov. 2022.</em></div>
+    <div class="links">
+    <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/IET_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Buckboostfw.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Competition</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443">BUCK-BOOST converter applied in friction-based nanogenerator energy storage device</a></div>
+    <div class="author"><strong>Fuwei Li</strong>, Guanghao Chen, Jie He, Peng Luo, Donghong Yang</strong></div>
+    <div class="periodical"><em> the 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
     <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/IET_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
