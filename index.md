@@ -35,13 +35,10 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
 
-<!-- {% include_relative _includes/talks.md %}-->
 
 
 ## Resources
