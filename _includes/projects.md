@@ -59,7 +59,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/article/10.1007/s43236-022-00564-1">Quadratic-type high step-up DC–DC converter with continuous input current integrating coupled inductor and voltage multiplier for renewable energy applications</a></div>
-    <div class="author"><strong>Fuwei Li</strong>, Jie He, Daojiri Huang, Peng Luo, Haoyu Jiang</strong></div>
+    <div class="author"><strong>Fuwei Li</strong>, Jie He, Peng Luo, Haoyu Jiang, Mingxin Liu</strong></div>
     <div class="periodical"><em>Journal of Power Electronics <strong>(JPE)</strong>, Apr. 2023.</em></div>
     <div class="links">
     <a href="https://link.springer.com/article/10.1007/s43236-022-00564-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
