@@ -45,7 +45,7 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 
 
 ## Resources
-- A flybook for GDOUer is on the way.
+- A flybook for GDOUer (maybe) is on the way.
 
 
 
