@@ -165,7 +165,8 @@ email {
   color: white; }
 
 autocolor {
-  color: #57068c; }
+  color: #0766b2; }
+ // 57068c**********************************
 
 lightonly {
   visibility: visible; }
@@ -187,7 +188,8 @@ papertitle {
     color: #eee6f3; }
 
   autocolor {
-    color: #ab82c5; }
+    color: #0766b2; }
+  // ab82c5**********************************
 
   lightonly {
     visibility: hidden; }
