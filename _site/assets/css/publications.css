@@ -20,10 +20,12 @@
 
 :root {
   --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(181, 9, 172, 0.05);
+  --global-code-bg-color: rgba(9, 48, 181, 0.05);
+  //  --global-code-bg-color: rgba(181, 9, 172, 0.05);************************origin*********************
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #330662;
+  --global-theme-color: #065a9d;
+//--global-theme-color: #330662;***************************origin********************
   --global-hover-color: #ffb81c;
   --global-footer-bg-color: #1c1c1c;
   --global-footer-text-color: #e8e8e8;
@@ -33,7 +35,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --global-theme-color: #7b5aa6;
+    --global-theme-color: #0766b2;
+    //--global-theme-color: #7b5aa6;***************************origin********************
   }
 }
 
