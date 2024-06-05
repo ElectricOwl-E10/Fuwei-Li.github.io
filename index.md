@@ -30,7 +30,7 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 ## Awards
 
 - **[2022]** <a href="https://www.ces.org.cn/html/report/22092497-1.htm" target="_blank"> First Prize</a> in <a href="https://eeeic.ces.org.cn/" target="_blank"> the 1th College Electrical & Electronic Engineering Innovation Competition</a>, Beijing, China
-- **[2022]** Second Prize in EDA (Electronics) at <a href="https://dasai.lanqiao.cn/" target="_blank"> 13th Lanqiao Cup Provincial Competition</a>., Guangdong Province
+- **[2022]** Second Prize in EDA (Electronics) at <a href="https://dasai.lanqiao.cn/" target="_blank"> 13th Lanqiao Cup Provincial Competition</a>, Guangdong Province
 - **[2021]** First Class of Academic Excellence Scholarship (top 3%), Guangdong Ocean University
 - **[2021]** Excellence Award in English Speech Contest of EIE College, Guangdong Ocean University
 - **[2020]** Second Class of Academic Excellence Scholarship (top 10%), Guangdong Ocean University
@@ -46,7 +46,7 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 
 
 ## Resources
-- A flybook for GDOUer (maybe) is on the way.
+- Updates to the <a href="https://flyingbrochure.org/" target="_blank">Power Electronics flying brochure</a> (An open-source public welfare project on GitHub) are on the way!
 
 
 
