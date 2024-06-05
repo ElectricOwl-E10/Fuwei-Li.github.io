@@ -39,7 +39,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.shineyoung.com/productinfo/2221242.html">A 125 kW PCS (using the three-level NPC1 topology) for commercial and industrial energy storage</a></div>
-    <div class="author"><strong>Fuwei Li</strong> </div>
+    <div class="author"><strong>Fuwei Li</strong> et al.</div>
     <div class="periodical"><em>Shenzhen SHINEYOUNG New Energy Technology Co., Ltd., Jul. 2023 – Mar. 2024.</em></div>
     <div class="links">
     <a href="https://www.shineyoung.com/productinfo/2221242.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
