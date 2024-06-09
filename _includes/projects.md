@@ -65,6 +65,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10149203" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/TIE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.gdou.edu.cn/info/1092/50642.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
     </div>
   </div>
 </div>
@@ -126,6 +127,7 @@
     <div class="periodical"><em> The 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
     <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/Poster_Buckboostfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://www.gdou.edu.cn/info/1092/46051.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
     </div>
   </div>
 </div>
