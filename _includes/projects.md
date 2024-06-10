@@ -43,7 +43,7 @@
     <div class="periodical"><em>Shenzhen SHINEYOUNG New Energy Technology Co., Ltd., Jul. 2023 – Mar. 2024.</em></div>
     <div class="links">
     <a href="https://www.shineyoung.com/productinfo/2221242.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/ElectricOwl-E10/Fuwei-Li.github.io/blob/master/assets/files/125kWPCSfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/125kWPCSfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -64,7 +64,7 @@
     <div class="periodical"><em>IEEE Transactions on Industrial Electronics <strong>(TIE)</strong>, May 2024.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10149203" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="_site/assets/files/TIE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/TIE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://www.gdou.edu.cn/info/1092/50642.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
     </div>
   </div>
@@ -85,7 +85,7 @@
     <div class="periodical"><em>Journal of Power Electronics <strong>(JPE)</strong>, Apr. 2023.</em></div>
     <div class="links">
     <a href="https://link.springer.com/article/10.1007/s43236-022-00564-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="_site/assets/files/JPE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/JPE_FLi.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -106,7 +106,7 @@
     <div class="periodical"><em>IET Power Electronics <strong>(IET PE)</strong>, Nov. 2022.</em></div>
     <div class="links">
     <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/pel2.12443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="_site/assets/files/IET PE_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/IET PE_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -149,7 +149,7 @@ Converter Based on Three-winding Coupled Inductor and Switch-capacitor</a></div>
     <div class="periodical"><em> 2022 IEEE 6th Information Technology and Mechatronics Engineering Conference <strong>(ITOEC2022)</strong>, Mar. 2022.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/9734370" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="_site/assets/files/ITOEC2022_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/ITOEC2022_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
