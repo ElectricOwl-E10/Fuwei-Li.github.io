@@ -19,7 +19,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><strong>[2022-prsent]</strong> Member of the <a href="https://www.ces.org.cn/" target="_blank"> China Electrotechnical Society</a></li>
-  <li><strong>[2019-2022]</strong> Monitor of the Class 1191 of <a href="https://jwc.gdou.edu.cn/info/1214/6508.htm" target="_blank"> Electrical Engineering and its Automation</a> at College of Electronic and Information Engineering, Guangdong Ocean University</li>
+  <li><strong>[2019-2022]</strong> Monitor of the Class 1191 of <a href="https://jwc.gdou.edu.cn/info/1214/6508.htm" target="_blank"> Electrical Engineering and Automation</a> at College of Electronic and Information Engineering, Guangdong Ocean University</li>
   <li><strong>[2019-2021]</strong> Member of the <a href="https://sl.gdou.edu.cn/info/1004/1062.htm" target="_blank"> Electronics Club</a>, Guangdong Ocean University</li>
 
 </ul>
