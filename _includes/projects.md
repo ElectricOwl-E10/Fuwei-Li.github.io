@@ -127,7 +127,9 @@
     <div class="periodical"><em> The 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
     <a href="assets/files/Poster_Buckboostfw.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    <a href="assets/img/Team in Beijing.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Team</a>
     <a href="https://www.gdou.edu.cn/info/1092/46051.htm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">News</a>
+    <a href="assets/img/Jie and Fuwei in Beijing.jpg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Tour</a>
     </div>
   </div>
 </div>
@@ -149,7 +151,7 @@ Converter Based on Three-winding Coupled Inductor and Switch-capacitor</a></div>
     <div class="periodical"><em> 2022 IEEE 6th Information Technology and Mechatronics Engineering Conference <strong>(ITOEC2022)</strong>, Mar. 2022.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/9734370" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/ITOEC2022_JHe.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/ITOEC2022_New.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
