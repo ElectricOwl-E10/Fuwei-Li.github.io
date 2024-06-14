@@ -15,7 +15,7 @@ In terms of academic performance: Despite ranking 1/ 147 in my major during my j
 
 After graduation, I worked as a hardware engineer at <a href="https://www.shineyoung.com/" target="_blank"> Shenzhen Shineyoung New Energy Technology Co., Ltd.</a>. Due to my consistent delivery of high-quality work within deadlines, I was promoted to an important project team and received an A in my probationary evaluation.
 
-Due to our shared passion for power electronics and our future plans, my fiancée, Jie He, and I are applying full-time to the 2025FALL PhD program in the United States.
+Due to my passion for power electronics and future plans, I am applying full-time to the 2025FALL PhD program in the United States.
 
 Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm also an amateur DJ available for parties.
 
