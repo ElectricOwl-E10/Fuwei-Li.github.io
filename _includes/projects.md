@@ -122,7 +122,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.gdou.edu.cn/info/1092/46051.htm">BUCK-BOOST converter in triboelectric nanogenerator energy storage device</a></div>
+    <div class="title"><a href="https://www.gdou.edu.cn/info/1092/46051.htm">BUCK-BOOST converter applied in triboelectric nanogenerator energy storage device</a></div>
     <div class="author"><strong>Fuwei Li</strong>, Guanghao Chen, Jie He, Peng Luo, Donghong Yang</div>
     <div class="periodical"><em> The 1th College Electrical & Electronic Engineering Innovation Competition, Sept. 2022.</em></div>
     <div class="links">
