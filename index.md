@@ -29,7 +29,7 @@ Outside of academia, fitness, sea fishing and cooking are my hobbies, and I'm al
 
 ## Awards
 
-- **[2022]** <a href="https://www.ces.org.cn/html/report/22092497-1.htm" target="_blank"> First Prize (top 0.005%)</a> in <a href="https://eeeic.ces.org.cn/" target="_blank"> the 1st College Electrical & Electronic Engineering Innovation Competition </a>, Beijing, Chinat
+- **[2022]** <a href="assets/files/Ranking.pdf" target="_blank"> First Prize (top 0.005%)</a> in <a href="https://eeeic.ces.org.cn/" target="_blank"> the 1st College Electrical & Electronic Engineering Innovation Competition </a>, Beijing, Chinat
 - **[2022]** Second Prize in EDA (Electronics) at <a href="https://dasai.lanqiao.cn/" target="_blank"> 13th Lanqiao Cup Provincial Competition</a>, Guangdong Province
 - **[2021]** First Class of Academic Excellence Scholarship (top 3%), Guangdong Ocean University
 - **[2021]** Excellence Award in English Speech Contest of EIE College, Guangdong Ocean University
