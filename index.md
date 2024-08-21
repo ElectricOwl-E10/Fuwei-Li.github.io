@@ -13,7 +13,9 @@ In terms of competition: As team leader, I led my team to win a <a href="https:/
 In terms of academic performance: Despite ranking 1/ 147 in my major during my junior year, due to an error, I failed one subject. Although I subsequently passed the makeup exam, I consequently lost the eligibility for graduate school recommendation.
 -->
 
+<!--
 After graduation, I worked as a hardware engineer at <a href="https://www.shineyoung.com/" target="_blank"> Shenzhen Shineyoung New Energy Technology Co., Ltd.</a>. Due to my consistent delivery of high-quality work within deadlines, I was promoted to an important project team and received an A in my probationary evaluation.
+-->
 
 Due to my passion for power electronics and future plans, I am applying full-time to the 2025FALL PhD program in the United States.
 
